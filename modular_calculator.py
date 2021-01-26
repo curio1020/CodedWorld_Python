@@ -1,7 +1,7 @@
 def main():
     from csv import reader
     """
-    This task provides practice for core property of remainder taking operation in arithmetic -
+    This task provide practice for core property of remainder taking operation in arithmetic -
     persisting of the remainder over addition and multiplication. This important property is
     often used for checking results of calculations, in competitive programming, in calculation
     checksums and especially for encryption.
