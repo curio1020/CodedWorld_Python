@@ -26,7 +26,7 @@ def main():
     i, estrelas = 1, {()}
     e = int(input())
     carneiros = [int(x) for x in input().split()]
-    while 0 < i <= e + 1:
+    while 0 < i <= e:
         if carneiros[i - 1] % 2 != 0:
             if carneiros[i - 1] > 0:
                 carneiros[i - 1] -= 1
